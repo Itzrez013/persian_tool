@@ -1,3 +1,14 @@
+Metadata-Version: 2.4
+Name: persian_tool
+Version: 0.1.0b1
+Summary: A Python library for converting Persian words and numbers to English.
+Author: Itzrez013
+License-Expression: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # persian_tool
 
 A Python library for converting Persian words and numbers to English.
